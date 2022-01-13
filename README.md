@@ -14,5 +14,5 @@
 5. PWK Labs: 31 Machines
 (2 weeks - Of course you should do PWK Labs before taking the exam :D I still have the remaining time of lab subscription and will complete all of them even I passed)
 
-6. Proving Ground (Practice): 54 Machines
+6. Proving Ground (Practice): 55 Machines
 (3 weeks - you SHOULD complete all the machines [Community Rate: Intermediate + Hard] before taking the exam, its my last learning path before knocking off this beast)
