@@ -3,7 +3,7 @@
 (2.5 months - If you haven't had any experience before, you should focus on the learning materials of both theory and labs, It prepares you enough to start HackTheBox journey)
 
 2. Portswigger: 197 Practical Labs
-(1.5 months - Server-side topics and Client-Side topics are enough, Advanced topics are for the preparation of OSWE)
+(1.5 months - Server-side topics and Client-Side topics are enough, Advanced topics are out of scope)
 
 3. HackTheBox: 98 Machines (TjNull NetSecFocus List)
 (2 months - Almost of them are in TjNull NetSecFocus List, you would learn a great amount of new things while practicing with those machines)
