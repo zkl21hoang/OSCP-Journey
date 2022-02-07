@@ -1,6 +1,6 @@
 # OSCP Journey
 1. TryHackMe: 6 Learning Paths + 2 Advent Of Cyber
-(2.5 months - Foundational Knowledges whhich prepare you enough to start HackTheBox journey)
+(2.5 months - Foundational Knowledges which prepare you enough to start HackTheBox journey)
 
 2. Portswigger: 197 Practical Labs
 (1.5 months - Server-side topics and Client-Side topics are enough, Advanced topics are out of scope)
